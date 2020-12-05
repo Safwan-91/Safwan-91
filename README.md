@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **Safwan-91/Safwan-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->My name is Safwan.I am currently pursuing a Dual Degree in mechanical engineering at IIT Madras,India. I am also a Data Science and AI enthusiast.The world has taken a shift towards automation and ease of access. I genuinely believe that these fields are the best ways to contribute to the world of science and technology.So I am on the search for working on new projects and in firms along the lines of Data Science and Machine Learning.
